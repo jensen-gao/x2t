@@ -1,0 +1,2 @@
+from gym_bci_typing.envs.char_typing_env import CharTypingEnv
+from gym_bci_typing.envs.radial_typing_env import RadialTypingEnv
